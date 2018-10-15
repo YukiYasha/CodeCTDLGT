@@ -1,0 +1,7 @@
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\bin\Debug\Sort.exe.config
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\bin\Debug\Sort.exe
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\bin\Debug\Sort.pdb
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\obj\Debug\Sort.exe
+E:\Study\Study\CodeCTDLGT\CodeCTDLGT\Sort\obj\Debug\Sort.pdb
